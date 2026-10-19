@@ -8,7 +8,8 @@ Outlook abonnerer på resultatet, så det holder sig opdateret af sig selv.
 
 ### 1. Hent dit Moodle link
 I Moodle: **Kalender**, så **Eksporter kalender**.
-Vælg **Alle kurser** og **Seneste og næste 60 dage**, og klik **Hent kalender URL**.
+Vælg **Alle kurser** og **Tilpasset periode** (fx 14/10 2026 til 19/10 2027), og klik **Hent kalender URL**.
+Perioden kan være så lang, du vil.
 Kopier linket. Det er personligt, så del det ikke med andre.
 
 ### 2. Opret konto og repository på GitHub
@@ -53,8 +54,8 @@ Giv den navnet "AARCH 1. år" og klik **Importer**.
   * lægges kun i ledige huller, og ingen blok starter kl. 16 eller senere
   * huller omkring unitmøder skal være mindst 1 time, andre mindst 30 minutter
   * når Moodle har en "Afslutning" for fasen, stopper fasen dér
-  * dage uden Moodle aftaler får 9 til 17
-  * dage længere frem end Moodle har data for, vises som heldagsbånd mandag til fredag, indtil Moodle har aftalerne
+  * en uge uden almindelige Moodle undervisningsaftaler (ferier og Studium Generale tæller ikke) regnes som ikke udfyldt endnu og vises som heldagsbånd mandag til fredag
+  * i en udfyldt uge får dage uden Moodle aftaler 9 til 17
 * Gamle Moodle aftaler gemmes i `data/moodle_cache.json` (kun tider), så historikken bevares.
 
 ## Ændringer

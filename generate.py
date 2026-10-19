@@ -55,6 +55,7 @@ def slim(e):
         "slut": to_dt(e.get("DTEND", e["DTSTART"])).astimezone(UTC).isoformat(),
         "unit": "unitmøde" in s,
         "afslutning": s if "afslutning" in s else "",
+        "studium_generale": "studiumgenerale" in e.get("CATEGORIES", "").lower(),
     }
 
 
@@ -119,8 +120,11 @@ def fold(line):
 def build():
     cache = update_cache()
     moodle = [(datetime.fromisoformat(v["start"]), datetime.fromisoformat(v["slut"]), v) for v in cache.values()]
-    mdays = [a.astimezone(TZ).date() for a, _, _ in moodle]
-    horizon = max(mdays) if mdays else date.min
+    # En uge regnes som udfyldt, når Moodle har mindst én almindelig undervisningsaftale
+    # på en hverdag. Lange perioder (fx ferie) og Studium Generale tæller ikke med.
+    filled_weeks = {a.astimezone(TZ).date().isocalendar()[:2] for a, b, v in moodle
+                    if a.astimezone(TZ).weekday() < 5 and b - a < timedelta(hours=12)
+                    and not v.get("studium_generale")}
 
     events = []  # (sortkey, props, alarm_days)
     stamp = datetime.now(UTC).strftime("%Y%m%dT%H%M%SZ")
@@ -154,7 +158,7 @@ def build():
         for d in weekdays(D(f["fra"]), D(f["til"])):
             if d in blocked_days:
                 continue
-            if d > horizon:  # Moodle har endnu ikke aftaler så langt frem
+            if d.isocalendar()[:2] not in filled_weeks:  # Moodle har ikke udfyldt ugen endnu
                 band.append(d)
                 continue
             day = sorted(x for x in moodle + busy_timed if x[0].astimezone(TZ).date() == d)

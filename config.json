@@ -1,0 +1,31 @@
+{
+  "kalendernavn": "AARCH 1. år",
+  "tidszone": "Europe/Copenhagen",
+  "dag_slut": "17:00",
+  "ingen_start_efter": "16:00",
+  "dag_start_uden_moodle": "09:00",
+  "min_hul_minutter": 30,
+  "min_hul_ved_unitmoede_minutter": 60,
+  "faser": [
+    {"navn": "Fase 3", "fra": "2026-10-26", "til": "2026-11-27"},
+    {"navn": "Fase 4", "fra": "2026-11-30", "til": "2026-12-22"},
+    {"navn": "Kursus Landskab", "fra": "2027-02-02", "til": "2027-02-22"},
+    {"navn": "Atelier: Landskab, sted og bygning", "fra": "2027-02-23", "til": "2027-03-19", "afslutning": "atelier"},
+    {"navn": "Atelier: Landskab, sted og bygning", "fra": "2027-03-30", "til": "2027-04-30", "afslutning": "atelier"},
+    {"navn": "Atelier: Landskab, sted og bygning", "fra": "2027-05-10", "til": "2027-05-28", "afslutning": "atelier"},
+    {"navn": "Kursus Teori & Historie", "fra": "2027-06-14", "til": "2027-06-22", "afslutning": "teori"}
+  ],
+  "begivenheder": [
+    {"navn": "On Location", "fra": "2026-10-29", "start": "13:00", "slut": "16:00"},
+    {"navn": "Portfoliobedømmelse 1. semester", "fra": "2027-01-13", "til": "2027-01-15", "paamindelse_dage": 3},
+    {"navn": "Intro 2. semester", "fra": "2027-02-01"},
+    {"navn": "Påskeferie", "fra": "2027-03-22", "til": "2027-03-29", "ledig": true, "fri": true},
+    {"navn": "Mellemkritik", "fra": "2027-05-03", "til": "2027-05-04", "paamindelse_dage": 2},
+    {"navn": "Kristi himmelfart (fri)", "fra": "2027-05-06", "til": "2027-05-07", "ledig": true, "fri": true},
+    {"navn": "Pinse (fri)", "fra": "2027-05-16", "til": "2027-05-17", "ledig": true, "fri": true},
+    {"navn": "Aflevering atelierprojekt", "fra": "2027-05-31", "paamindelse_dage": 3},
+    {"navn": "Bedømmelse atelier", "fra": "2027-06-03", "til": "2027-06-04"},
+    {"navn": "Bedømmelse atelier", "fra": "2027-06-07", "til": "2027-06-09"},
+    {"navn": "Afslutning", "fra": "2027-06-25"}
+  ]
+}

@@ -1,0 +1,356 @@
+{
+ "15534@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-10-19T10:00:00+00:00",
+  "start": "2026-10-19T09:30:00+00:00",
+  "unit": true
+ },
+ "16187@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-10-19T09:00:00+00:00",
+  "start": "2026-10-19T07:00:00+00:00",
+  "unit": false
+ },
+ "16189@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-02T10:00:00+00:00",
+  "start": "2026-11-02T08:00:00+00:00",
+  "unit": false
+ },
+ "16191@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-09T10:00:00+00:00",
+  "start": "2026-11-09T08:00:00+00:00",
+  "unit": false
+ },
+ "16193@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-16T10:00:00+00:00",
+  "start": "2026-11-16T08:00:00+00:00",
+  "unit": false
+ },
+ "16195@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-23T10:00:00+00:00",
+  "start": "2026-11-23T08:00:00+00:00",
+  "unit": false
+ },
+ "16197@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-30T10:00:00+00:00",
+  "start": "2026-11-30T08:00:00+00:00",
+  "unit": false
+ },
+ "16199@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-07T10:00:00+00:00",
+  "start": "2026-12-07T08:00:00+00:00",
+  "unit": false
+ },
+ "16201@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-14T10:00:00+00:00",
+  "start": "2026-12-14T08:00:00+00:00",
+  "unit": false
+ },
+ "16207@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-10-21T09:00:00+00:00",
+  "start": "2026-10-21T07:00:00+00:00",
+  "unit": false
+ },
+ "16209@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-10-28T10:00:00+00:00",
+  "start": "2026-10-28T08:00:00+00:00",
+  "unit": false
+ },
+ "16211@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-04T10:00:00+00:00",
+  "start": "2026-11-04T08:00:00+00:00",
+  "unit": false
+ },
+ "16213@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-11T10:00:00+00:00",
+  "start": "2026-11-11T08:00:00+00:00",
+  "unit": false
+ },
+ "16215@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-18T10:00:00+00:00",
+  "start": "2026-11-18T08:00:00+00:00",
+  "unit": false
+ },
+ "16217@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-25T10:00:00+00:00",
+  "start": "2026-11-25T08:00:00+00:00",
+  "unit": false
+ },
+ "16219@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-02T10:00:00+00:00",
+  "start": "2026-12-02T08:00:00+00:00",
+  "unit": false
+ },
+ "16221@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-09T10:00:00+00:00",
+  "start": "2026-12-09T08:00:00+00:00",
+  "unit": false
+ },
+ "16223@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-16T10:00:00+00:00",
+  "start": "2026-12-16T08:00:00+00:00",
+  "unit": false
+ },
+ "16225@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-10-26T10:00:00+00:00",
+  "start": "2026-10-26T08:00:00+00:00",
+  "unit": false
+ },
+ "16279@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-10-20T08:15:00+00:00",
+  "start": "2026-10-20T07:00:00+00:00",
+  "unit": false
+ },
+ "16281@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-10-27T09:15:00+00:00",
+  "start": "2026-10-27T08:00:00+00:00",
+  "unit": false
+ },
+ "16283@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-03T09:15:00+00:00",
+  "start": "2026-11-03T08:00:00+00:00",
+  "unit": false
+ },
+ "16285@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-10T09:15:00+00:00",
+  "start": "2026-11-10T08:00:00+00:00",
+  "unit": false
+ },
+ "16287@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-10-22T09:00:00+00:00",
+  "start": "2026-10-22T07:00:00+00:00",
+  "unit": false
+ },
+ "16289@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-10-23T13:30:00+00:00",
+  "start": "2026-10-23T08:30:00+00:00",
+  "unit": false
+ },
+ "16291@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-10-29T10:00:00+00:00",
+  "start": "2026-10-29T08:00:00+00:00",
+  "unit": false
+ },
+ "16293@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-10-30T09:30:00+00:00",
+  "start": "2026-10-30T08:00:00+00:00",
+  "unit": false
+ },
+ "16295@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-05T10:00:00+00:00",
+  "start": "2026-11-05T08:00:00+00:00",
+  "unit": false
+ },
+ "16297@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-12T10:00:00+00:00",
+  "start": "2026-11-12T08:00:00+00:00",
+  "unit": false
+ },
+ "16299@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-17T09:15:00+00:00",
+  "start": "2026-11-17T08:00:00+00:00",
+  "unit": false
+ },
+ "16301@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-06T14:15:00+00:00",
+  "start": "2026-11-06T08:00:00+00:00",
+  "unit": false
+ },
+ "16303@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-13T09:30:00+00:00",
+  "start": "2026-11-13T08:00:00+00:00",
+  "unit": false
+ },
+ "16305@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-20T14:30:00+00:00",
+  "start": "2026-11-20T08:00:00+00:00",
+  "unit": false
+ },
+ "16307@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-19T10:00:00+00:00",
+  "start": "2026-11-19T08:00:00+00:00",
+  "unit": false
+ },
+ "16309@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-26T10:00:00+00:00",
+  "start": "2026-11-26T08:00:00+00:00",
+  "unit": false
+ },
+ "16311@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-24T09:15:00+00:00",
+  "start": "2026-11-24T08:00:00+00:00",
+  "unit": false
+ },
+ "16313@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-27T09:30:00+00:00",
+  "start": "2026-11-27T08:00:00+00:00",
+  "unit": false
+ },
+ "16315@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-03T10:00:00+00:00",
+  "start": "2026-12-03T08:00:00+00:00",
+  "unit": false
+ },
+ "16317@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-10T10:00:00+00:00",
+  "start": "2026-12-10T08:00:00+00:00",
+  "unit": false
+ },
+ "16319@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-17T10:00:00+00:00",
+  "start": "2026-12-17T08:00:00+00:00",
+  "unit": false
+ },
+ "16321@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-04T16:00:00+00:00",
+  "start": "2026-12-04T06:50:00+00:00",
+  "unit": false
+ },
+ "16323@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-18T14:15:00+00:00",
+  "start": "2026-12-18T08:00:00+00:00",
+  "unit": false
+ },
+ "16325@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2027-01-01T11:00:00+00:00",
+  "start": "2026-12-23T08:00:00+00:00",
+  "unit": false
+ },
+ "16327@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2027-01-12T11:00:00+00:00",
+  "start": "2027-01-04T08:20:00+00:00",
+  "unit": false
+ },
+ "16345@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-02T11:00:00+00:00",
+  "start": "2026-11-02T10:30:00+00:00",
+  "unit": true
+ },
+ "16347@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-16T11:00:00+00:00",
+  "start": "2026-11-16T10:30:00+00:00",
+  "unit": true
+ },
+ "16349@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-30T11:00:00+00:00",
+  "start": "2026-11-30T10:30:00+00:00",
+  "unit": true
+ },
+ "16351@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-14T11:00:00+00:00",
+  "start": "2026-12-14T10:30:00+00:00",
+  "unit": true
+ },
+ "16353@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-01T10:00:00+00:00",
+  "start": "2026-12-01T08:00:00+00:00",
+  "unit": false
+ },
+ "16355@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-11T09:30:00+00:00",
+  "start": "2026-12-11T08:00:00+00:00",
+  "unit": false
+ },
+ "16521@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-04T15:30:00+00:00",
+  "start": "2026-11-04T14:00:00+00:00",
+  "unit": false
+ },
+ "16523@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2027-02-01T14:00:00+00:00",
+  "start": "2027-02-01T12:00:00+00:00",
+  "unit": false
+ },
+ "17035@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-10-23T08:00:00+00:00",
+  "start": "2026-10-23T07:00:00+00:00",
+  "unit": false
+ },
+ "17037@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-09T11:00:00+00:00",
+  "start": "2026-11-09T10:00:00+00:00",
+  "unit": false
+ },
+ "17039@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-17T09:30:00+00:00",
+  "start": "2026-11-17T09:30:00+00:00",
+  "unit": false
+ },
+ "17041@moodle.aarch.dk": {
+  "afslutning": "afslutning fase 3",
+  "slut": "2026-11-27T15:00:00+00:00",
+  "start": "2026-11-27T09:30:00+00:00",
+  "unit": false
+ },
+ "17043@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-09T15:00:00+00:00",
+  "start": "2026-11-09T12:00:00+00:00",
+  "unit": false
+ },
+ "17045@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-23T11:00:00+00:00",
+  "start": "2026-11-23T10:00:00+00:00",
+  "unit": false
+ },
+ "17103@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-10-19T09:30:00+00:00",
+  "start": "2026-10-19T09:00:00+00:00",
+  "unit": false
+ }
+}

@@ -211,8 +211,8 @@
  },
  "16301@moodle.aarch.dk": {
   "afslutning": "",
-  "slut": "2026-11-06T14:15:00+00:00",
-  "start": "2026-11-06T08:00:00+00:00",
+  "slut": "2026-11-06T14:45:00+00:00",
+  "start": "2026-11-06T08:30:00+00:00",
   "studium_generale": false,
   "unit": false
  },
@@ -409,6 +409,13 @@
   "afslutning": "",
   "slut": "2026-10-19T09:30:00+00:00",
   "start": "2026-10-19T09:00:00+00:00",
+  "studium_generale": false,
+  "unit": false
+ },
+ "17265@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-08T09:15:00+00:00",
+  "start": "2026-12-08T08:00:00+00:00",
   "studium_generale": false,
   "unit": false
  }

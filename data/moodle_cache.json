@@ -316,7 +316,7 @@
  },
  "16353@moodle.aarch.dk": {
   "afslutning": "",
-  "slut": "2026-12-01T10:00:00+00:00",
+  "slut": "2026-12-01T08:45:00+00:00",
   "start": "2026-12-01T08:00:00+00:00",
   "studium_generale": false,
   "unit": false
@@ -446,5 +446,54 @@
   "start": "2027-01-04T10:30:00+00:00",
   "studium_generale": false,
   "unit": true
+ },
+ "17451@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-30T12:15:00+00:00",
+  "start": "2026-11-30T11:45:00+00:00",
+  "studium_generale": false,
+  "unit": false
+ },
+ "17452@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-11-30T13:15:00+00:00",
+  "start": "2026-11-30T12:15:00+00:00",
+  "studium_generale": false,
+  "unit": false
+ },
+ "17453@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-01T09:45:00+00:00",
+  "start": "2026-12-01T09:00:00+00:00",
+  "studium_generale": false,
+  "unit": false
+ },
+ "17454@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-01T11:00:00+00:00",
+  "start": "2026-12-01T10:00:00+00:00",
+  "studium_generale": false,
+  "unit": false
+ },
+ "17455@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-07T16:00:00+00:00",
+  "start": "2026-12-07T10:15:00+00:00",
+  "studium_generale": false,
+  "unit": false
+ },
+ "17456@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-10T16:00:00+00:00",
+  "start": "2026-12-10T08:00:00+00:00",
+  "studium_generale": false,
+  "unit": false
+ },
+ "17457@moodle.aarch.dk": {
+  "afslutning": "",
+  "slut": "2026-12-11T10:30:00+00:00",
+  "start": "2026-12-11T09:45:00+00:00",
+  "studium_generale": false,
+  "unit": false
  }
 }
